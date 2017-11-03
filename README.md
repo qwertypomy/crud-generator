@@ -1,6 +1,6 @@
-#Generate DAO CRUD, List, DeleteAll functions for models.
+# Generate DAO CRUD, List, DeleteAll functions for models.
 
-##Example of usage
+## Example of usage
 ``` go
 import (
 	"github.com/qwertypomy/crud_generator"
